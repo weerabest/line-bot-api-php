@@ -1,2 +1,2 @@
 <?php
-echo "Best IoT <=> LINEBOT API";
+echo "Best SU SU IoT <=> LINEBOT API";
