@@ -10,10 +10,10 @@
 		else if($msg =="off"){
 			$msg = "0";
 		}
-		else if($msg =="เปิดไฟ")||($msg== "เปิด"){
+		else if(($msg =="เปิดไฟ")||($msg== "เปิด")){
 			$msg = "1";
 		}
-		else if($msg =="ปิดไฟ")||($msg== "ปิด"){
+		else if(($msg =="ปิดไฟ")||($msg== "ปิด")){
 			$msg = "0";
 		}
 		else if($msg =="56"){
